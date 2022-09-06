@@ -4,8 +4,7 @@
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
-    "watch": "nodemon server.js",
-    "install": "cd client && npm install && npm run build && cd .."
+    "watch": "nodemon server.js"
 
   },
   "keywords": [],
