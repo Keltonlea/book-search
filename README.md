@@ -18,7 +18,7 @@ The user should clone the repository from GitHub and install dependencies. For d
 ## Usage 
 This application will allow users to search for books and view 10 results. Users are able to sign up and login in. Logged in users can save a book and view a page of saved books. Users can also remove books from their saved page.<br>
 Please view deployed application on [Heroku](https://young-lowlands-07206.herokuapp.com/)<br>
-<img src='client/public/images/book-search.png'>
+![Screenshot of search results](./assets/booksearch.png)
 
 ## License 
 This project is license under MIT
